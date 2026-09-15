@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# YOLO model weights (auto-downloaded)
+*.pt
+
+# Test videos (too large for GitHub)
+*.mp4
+
+# Generated output
+traffic_log.csv
+
+# Python cache
+__pycache__/
+*.pyc
